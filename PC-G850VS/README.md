@@ -1,0 +1,1 @@
+Versión para la SHARP PC-G850VS en BASIC en un archivo de texto en formato .BAS, es necesario crear el archivo RAM DATA FILE con el nombre de MISTERIO.DAT y reservar 1000 bytes, esto es necesario para el guardado del juego en la SHARP
