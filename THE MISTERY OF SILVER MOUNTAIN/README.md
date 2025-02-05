@@ -16,3 +16,8 @@ El archivo PDF del libro aporta dibujos de los escenarios y ayuda a completar el
 A continuación, se muestra una lista de instrucciones que el ordenador comprende. Si escribes una instrucción diferente, el ordenador no la reconocerá, aunque tenga sentido para ti:
 
 OBTENER, TOMAR, EXAMINAR, LEER, DAR, DECIR, RECOGER, PONER, ATAR, ESCALAR, IZAR, USAR, ABRIR, ENCENDER, LLENAR, PLANTAR, REGAR, BLANDIR, VACIAR, ENTRAR, ATRAVESAR, QUITAR, ALIMENTAR, GIRAR, SUMERGIRSE, RESPONDER, DEJAR, ARROJAR, INSERTAR, SOPLAR, TIRAR, COMER, MOVER, DENTRO, REPICAR, CORTAR, SOSTENER, QUEMAR, ENVENENAR, MOSTRAR, BEBER, CONTAR, PAGAR, HACER, ROMPER, ROBAR, REUNIR, REFLEJAR, INVENTARIO
+
+Esta versión requiere tener 160k o mas y tener instalado el FX-DOS.
+
+Puede descargar e instalar FX-DOS desde:
+http://stear.c.ooco.jp/fx890p/fx_fxdos.htm
