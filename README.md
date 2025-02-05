@@ -13,6 +13,6 @@ OBTENER, TOMAR, EXAMINAR, LEER, DAR, DECIR, RECOGER, PONER, ATAR, ESCALAR, IZAR,
 
 Se adjuntan dos versiones del juego:
 
-	1.	Versión en lenguaje C, mucho más rápida en ejecutable .EXE para la FX-890P y compatibles. Esta versión en C requiere disponer de 160K o más y tener instalado el FX-DOS.
+1.	Versión en lenguaje C, mucho más rápida en ejecutable .EXE para la FX-890P y compatibles. Esta versión en C requiere disponer de 160K o más y tener instalado el FX-DOS.
  
-	2.	Versión en BASIC para la SHARP PC-G850VS, en un archivo de texto con formato .BAS. Es necesario crear un RAM DATA FILE con el nombre MISTERIO.DAT y reservar 1000 bytes para permitir el guardado del juego en la SHARP.
+2.	Versión en BASIC para la SHARP PC-G850VS, en un archivo de texto con formato .BAS. Es necesario crear un RAM DATA FILE con el nombre MISTERIO.DAT y reservar 1000 bytes para permitir el guardado del juego en la SHARP.
