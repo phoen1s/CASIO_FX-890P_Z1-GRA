@@ -1,24 +1,24 @@
-# THE-MISTERY-OF-SILVER-MOUNTAIN
-Este es un juego de aventuras de texto en castellano. Está comprobado y adaptado para su uso en la CASIO Z1, SHARP PC-G850VS y modelos compatibles. Es necesario disponer de más de 32K para poder ejecutarlo.
+# CASIO FX-890P Y COMPATIBLES CON FX-DOS.
 
-Para jugar correctamente y completar la aventura, se debe tener el libro El misterio de la montaña de plata, el cual está disponible de forma gratuita en la página de Usborne:
+Estoy programando en el lenguaje C89 y convirtiendo programas escritos en BASIC a C para la Casio FX-890P. Además, busco proyectos para mejorar las funcionalidades de esta calculadora, como la implementación de un lector de tarjetas SD, la expansión de memoria y muchas otras mejoras.
 
-https://usborne.com/gb/books/computer-and-coding-books
+Mis proyectos requieren FX-DOS, un sistema que amplía las capacidades del sistema operativo de la FX-890P.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a6f8818f-d1cf-4acc-b3cd-1c13f8540181" width="400">
-</p>
-<p align="center">
+¿Qué es FX-DOS?
 
+FX-DOS es un emulador de MS-DOS desarrollado específicamente para las calculadoras Casio FX-890P y Z-1 Series. Aunque inicialmente se concibió como un sistema operativo alternativo para estas máquinas, su desarrollo lo convirtió en un emulador que permite ejecutar comandos similares a los de MS-DOS y gestionar mejor los archivos y dispositivos.
 
-El archivo PDF del libro aporta dibujos de los escenarios y ayuda a completar el juego.
+Uno de los principales problemas de la FX-890P es que, incluso con expansión de memoria, solo permite manejar un máximo de 20 archivos. FX-DOS soluciona esta limitación y añade soporte para controladores de dispositivos adicionales.
 
-A continuación, se muestra una lista de instrucciones que el ordenador comprende. Si escribes una instrucción diferente, el ordenador no la reconocerá, aunque tenga sentido para ti:
+Al instalar FX-DOS, es posible:
+	•	Usar el área de archivos como un disco RAM para gestionar más archivos.
+	•	Habilitar un entorno en japonés con soporte para caracteres kanji.
+	•	Intercambiar archivos directamente con una PC a través de conexión serial.
 
-OBTENER, TOMAR, EXAMINAR, LEER, DAR, DECIR, RECOGER, PONER, ATAR, ESCALAR, IZAR, USAR, ABRIR, ENCENDER, LLENAR, PLANTAR, REGAR, BLANDIR, VACIAR, ENTRAR, ATRAVESAR, QUITAR, ALIMENTAR, GIRAR, SUMERGIRSE, RESPONDER, DEJAR, ARROJAR, INSERTAR, SOPLAR, TIRAR, COMER, MOVER, DENTRO, REPICAR, CORTAR, SOSTENER, QUEMAR, ENVENENAR, MOSTRAR, BEBER, CONTAR, PAGAR, HACER, ROMPER, ROBAR, REUNIR, REFLEJAR, INVENTARIO
+Sin embargo, es importante aclarar que FX-DOS no modifica el comportamiento del sistema fuera de su entorno. Por ejemplo, BASIC no podrá manejar directamente el disco RAM ni visualizar caracteres kanji sin programas adicionales que lo permitan.
 
-Se adjuntan dos versiones del juego:
-
-1.	Versión en lenguaje C, mucho más rápida en ejecutable .EXE para la FX-890P y compatibles. Esta versión en C requiere disponer de 160K o más y tener instalado el FX-DOS.
- 
-2.	Versión en BASIC para la SHARP PC-G850VS, en un archivo de texto con formato .BAS. Es necesario crear un RAM DATA FILE con el nombre MISTERIO.DAT y reservar 1000 bytes para permitir el guardado del juego en la SHARP.
+Requisitos para instalar FX-DOS
+	•	No es compatible con modelos de 32 KB, ya que solo el núcleo de FX-DOS ocupa aproximadamente 27 KB de memoria.
+	•	Se recomienda una expansión de al menos 128 KB para su correcto funcionamiento.
+	•	Para un entorno en japonés con soporte completo de kanji, se sugiere una expansión de 256 KB o más.
+	•	No soporta disquetes (MD-120), por lo que la transferencia de archivos se debe hacer mediante un cable serial conectado a una PC.
