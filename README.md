@@ -11,14 +11,14 @@ FX-DOS es un emulador de MS-DOS desarrollado específicamente para las calculado
 Uno de los principales problemas de la FX-890P es que, incluso con expansión de memoria, solo permite manejar un máximo de 20 archivos. FX-DOS soluciona esta limitación y añade soporte para controladores de dispositivos adicionales.
 
 Al instalar FX-DOS, es posible:
-	•	Usar el área de archivos como un disco RAM para gestionar más archivos.
-	•	Habilitar un entorno en japonés con soporte para caracteres kanji.
-	•	Intercambiar archivos directamente con una PC a través de conexión serial.
+•	Usar el área de archivos como un disco RAM para gestionar más archivos.
+•	Habilitar un entorno en japonés con soporte para caracteres kanji.
+•	Intercambiar archivos directamente con una PC a través de conexión serial.
 
 Sin embargo, es importante aclarar que FX-DOS no modifica el comportamiento del sistema fuera de su entorno. Por ejemplo, BASIC no podrá manejar directamente el disco RAM ni visualizar caracteres kanji sin programas adicionales que lo permitan.
 
 Requisitos para instalar FX-DOS
-	•	No es compatible con modelos de 32 KB, ya que solo el núcleo de FX-DOS ocupa aproximadamente 27 KB de memoria.
-	•	Se recomienda una expansión de al menos 128 KB para su correcto funcionamiento.
-	•	Para un entorno en japonés con soporte completo de kanji, se sugiere una expansión de 256 KB o más.
-	•	No soporta disquetes (MD-120), por lo que la transferencia de archivos se debe hacer mediante un cable serial conectado a una PC.
+•	No es compatible con modelos de 32 KB, ya que solo el núcleo de FX-DOS ocupa aproximadamente 27 KB de memoria.
+•	Se recomienda una expansión de al menos 128 KB para su correcto funcionamiento.
+•	Para un entorno en japonés con soporte completo de kanji, se sugiere una expansión de 256 KB o más.
+•	No soporta disquetes (MD-120), por lo que la transferencia de archivos se debe hacer mediante un cable serial conectado a una PC.
