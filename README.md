@@ -5,6 +5,12 @@ Para jugar correctamente y completar la aventura, se debe tener el libro El mist
 
 https://usborne.com/gb/books/computer-and-coding-books
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a6f8818f-d1cf-4acc-b3cd-1c13f8540181) width="400">
+</p>
+<p align="center">
+
+
 El archivo PDF del libro aporta dibujos de los escenarios y ayuda a completar el juego.
 
 A continuación, se muestra una lista de instrucciones que el ordenador comprende. Si escribes una instrucción diferente, el ordenador no la reconocerá, aunque tenga sentido para ti:
