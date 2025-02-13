@@ -5,6 +5,8 @@
 </p>
 <p align="center">
 
+https://www.youtube.com/watch?v=l2l6M8i_1vg
+
 En un mundo donde el acero y la magia se entrelazan, las tierras de Hyboria se sumen en una era de oscuridad y desesperación. Lejos de los reinos civilizados, más allá de las montañas embrujadas y los vastos desiertos, se encuentra un complejo laberinto de mazmorras antiguas, conocido solo como Las Mazmorras del Caos.
 
 Es en este oscuro y peligroso inframundo donde se adentra Conan, el Cimmerio, guerrero de leyenda y aventurero sin par. Su misión: enfrentar extrañas fuerzas sobrenaturales, derrotar a hordas de orcos y magos oscuros, y desentrañar los secretos que yacen en lo profundo, en busca de tesoros olvidados y reliquias de poder incalculable.!
