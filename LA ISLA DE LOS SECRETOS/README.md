@@ -1,21 +1,23 @@
-# THE-MISTERY-OF-SILVER-MOUNTAIN
-Este es un juego de aventuras de texto en castellano. Está comprobado y adaptado para su uso en la CASIO Z1, SHARP PC-G850VS y modelos compatibles. Es necesario disponer de más de 32K para poder ejecutarlo.
+# #LA ISLA DE LOS SECRETOS
 
-Para jugar correctamente y completar la aventura, se debe tener el libro El misterio de la montaña de plata, el cual está disponible de forma gratuita en la página de Usborne:
+![181913_AventurasIslaSecretos png@1200w_0e (1)](https://github.com/user-attachments/assets/9f8ac0ae-6eec-442a-8cb9-7e3a293b141e)
 
-https://usborne.com/gb/books/computer-and-coding-books
+Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado para su uso en la CASIO Z-1GR y modelos compatibles, es necesario tener mas de 32k para su uso. Para poder jugarlo bien y poder llegar a su fin se debe tener el libro:
+La isla de los secretos, el cual esta gratis en la pagina de usborne
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a6f8818f-d1cf-4acc-b3cd-1c13f8540181" width="400">
-</p>
-<p align="center">
+usborne.com/gb/books/computer-and-coding-books
 
+EL pdf aporta dibujos de los parajes y ayuda para completar el juego.
 
-El archivo PDF del libro aporta dibujos de los escenarios y ayuda a completar el juego.
+Esta es una lista de instrucciones que el ordenador comprende. Si escribes una instrucción diferente, el ordenador no lo comprendera aunque tenga sentido para ti.
 
-A continuación, se muestra una lista de instrucciones que el ordenador comprende. Si escribes una instrucción diferente, el ordenador no la reconocerá, aunque tenga sentido para ti:
-
-OBTENER, TOMAR, EXAMINAR, LEER, DAR, DECIR, RECOGER, PONER, ATAR, ESCALAR, IZAR, USAR, ABRIR, ENCENDER, LLENAR, PLANTAR, REGAR, BLANDIR, VACIAR, ENTRAR, ATRAVESAR, QUITAR, ALIMENTAR, GIRAR, SUMERGIRSE, RESPONDER, DEJAR, ARROJAR, INSERTAR, SOPLAR, TIRAR, COMER, MOVER, DENTRO, REPICAR, CORTAR, SOSTENER, QUEMAR, ENVENENAR, MOSTRAR, BEBER, CONTAR, PAGAR, HACER, ROMPER, ROBAR, REUNIR, REFLEJAR, INVENTARIO
+OBTENER TOMAR IR DAR TIRAR DEJAR COMER BEBER MONTAR ABRIR RECOGER CORTAR TROZO GOLPEAR
+ROMPER LUCHAR BUSCAR ATACAR PEGAR MATAR NADAR REFUGIAR AYUDAR RASCAR AGARRAR FROTAR PULIR LEER EXAMINAR LLENAR
+DECIR ESPERAR DESCANSAR AGITAR INFORMAR QUITAR MANZANA HUEVO FLOR JARRA BALLETA
+PERGAMINO ANTORCHA GUIJARRO HACHA CUERDA BASTON BLOQUE CARBON PEDERNAL MARTILLO BESTIA HOGAZA MELON GALLETAS
+SETAS AGUA VINO ZUMO BARCO COFRE COLUMNA PIEDRA TRAMPILLA PUEBLERINO LICOR
+HOMBRE SABIA LIBROS RAICES FANTASMA CAPA OMEGA SERPIENTE LEÑADORES BASURERO MEDIANO NORTE SUR ESTE OESTE ARRIBA
+ABAJO DENTRO FUERA
 
 Esta versión requiere tener 160k o mas y tener instalado el FX-DOS.
 
