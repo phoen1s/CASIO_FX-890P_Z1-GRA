@@ -10,6 +10,7 @@ https://usborne.com/gb/books/computer-and-coding-books
 </p>
 <p align="center">
 
+https://www.youtube.com/watch?v=l2l6M8i_1vg
 
 El archivo PDF del libro aporta dibujos de los escenarios y ayuda a completar el juego.
 
