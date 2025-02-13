@@ -1,6 +1,9 @@
 # #LA ISLA DE LOS SECRETOS
 
-![181913_AventurasIslaSecretos png@1200w_0e (1)](https://github.com/user-attachments/assets/9f8ac0ae-6eec-442a-8cb9-7e3a293b141e)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9f8ac0ae-6eec-442a-8cb9-7e3a293b141e" width="400">
+</p>
+<p align="center">
 
 Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado para su uso en la CASIO Z-1GR y modelos compatibles, es necesario tener mas de 32k para su uso. Para poder jugarlo bien y poder llegar a su fin se debe tener el libro:
 La isla de los secretos, el cual esta gratis en la pagina de usborne
