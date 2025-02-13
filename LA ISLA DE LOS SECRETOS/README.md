@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 
-Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado para su uso en la CASIO Z-1GR y modelos compatibles, es necesario tener mas de 32k para su uso. Para poder jugarlo bien y poder llegar a su fin se debe tener el libro:
+Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado para su uso en la CASIO Z-1GRA y modelos compatibles, es necesario tener mas de 32k para su uso. Para poder jugarlo bien y poder llegar a su fin se debe tener el libro:
 La isla de los secretos, el cual esta gratis en la pagina de usborne
 
 usborne.com/gb/books/computer-and-coding-books
