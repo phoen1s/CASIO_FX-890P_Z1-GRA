@@ -18,9 +18,13 @@ Los pasillos están llenos sombras que susurran secretos perdidos en el tiempo. 
 
 
 Este juego esta optimizado para la FX-890P y su pantalla, se requieren tener instalado FX-DOS y mas de 60K libres de memoria.
-Teclas de direccion: 8 4 6 2
-Teclas de inventario: I
-Tecla para el mapa: M
-Tecla para cargar: L
-Tecla para salir: X
 
+Teclas de direccion: 8 4 6 2
+
+Teclas de inventario: I
+
+Tecla para el mapa: M
+
+Tecla para cargar: L
+
+Tecla para salir: X
