@@ -1,5 +1,5 @@
 # THE-MISTERY-OF-SILVER-MOUNTAIN
-Este es un juego de aventuras de texto en castellano. Está comprobado y adaptado para su uso en la CASIO Z1, SHARP PC-G850VS y modelos compatibles. Es necesario disponer de más de 32K para poder ejecutarlo.
+Este es un juego de aventuras de texto en castellano. Está comprobado y adaptado para su uso en la CASIO Z1  y modelos compatibles. 
 
 https://www.youtube.com/watch?v=QSVBViD6FD0
 
