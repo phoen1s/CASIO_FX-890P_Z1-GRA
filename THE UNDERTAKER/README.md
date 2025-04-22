@@ -23,6 +23,7 @@ Sin la llave, no podrás avanzar.
 Teclas:
 
 SCROLL:
+
 	↑ = Flecha hacia arriba
 	↓ = Flecha hacia abajo
 	← = Flecha hacia la izquierda
