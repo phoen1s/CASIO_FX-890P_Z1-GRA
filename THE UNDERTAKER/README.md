@@ -10,3 +10,20 @@ Debes tener cuidado de no caer tú mismo en los hoyos que has cavado.
 Las lápidas y las paredes del cementerio bloquean tu camino.
 Además, debes escapar de los tres niveles del cementerio. En cada nivel, tendrás que encontrar la llave que abre la verja de salida.
 Sin la llave, no podrás avanzar.
+
+Teclas:
+
+SCROLL:
+	↑ = Flecha hacia arriba
+	↓ = Flecha hacia abajo
+	← = Flecha hacia la izquierda
+	→ = Flecha hacia la derecha
+
+MOVIMIENTO:
+	8 = Arriba
+	2 = Abajo
+	4 = Izquierda
+	6 = Derecha
+	O = Cavar hoyo
+	X = Salir
+
