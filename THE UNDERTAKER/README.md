@@ -16,8 +16,6 @@ Teclas:
 SCROLL:
 	↑ = Flecha hacia arriba
 	↓ = Flecha hacia abajo
-	← = Flecha hacia la izquierda
-	→ = Flecha hacia la derecha
 
 MOVIMIENTO:
 	8 = Arriba
