@@ -1,5 +1,14 @@
 # THE UNDERTAKER.
 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5a80ad0b-c104-4a5a-9f6f-d01064bb004c" width="400">
+</p>
+<p align="center">
+
+
+
+
 Está oscuro y ventoso — no es la clase de noche para perderse en un cementerio, pero ahí estás tú.
 Tienes hasta la medianoche para encontrar la salida.
 
