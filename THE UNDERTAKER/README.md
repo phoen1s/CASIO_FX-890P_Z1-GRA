@@ -33,3 +33,4 @@ MOVIMIENTO:
 	O = Cavar hoyo
 	X = Salir
 
+
