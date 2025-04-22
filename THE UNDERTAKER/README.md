@@ -30,6 +30,7 @@ SCROLL:
 	→ = Flecha hacia la derecha
 
 MOVIMIENTO:
+
 	8 = Arriba
 	2 = Abajo
 	4 = Izquierda
