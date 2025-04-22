@@ -20,8 +20,6 @@ Las lápidas y las paredes del cementerio bloquean tu camino.
 Además, debes escapar de los tres niveles del cementerio. En cada nivel, tendrás que encontrar la llave que abre la verja de salida.
 Sin la llave, no podrás avanzar.
 
-Teclas:
-
 SCROLL:
 
 	↑ = Flecha hacia arriba
