@@ -13,6 +13,7 @@ Lectura limitada: No reconoce múltiples teclas presionadas al mismo tiempo (ent
 Retraso en la detección: Pierde pulsaciones rápidas o combinaciones complejas (ej. SHIFT + ALPHA + otra tecla).
 
 🔹 Características Clave de real-inkey
+
 ✅ Entrada simultánea de teclas
 
 Detecta varias teclas presionadas al mismo tiempo, permitiendo combinaciones avanzadas (ej. SHIFT + ALPHA + dirección).
