@@ -3,7 +3,10 @@
 Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado para su uso en la CASIO Z-1GRA y modelos compatibles. 
 
 
-![IMG_1495](https://github.com/user-attachments/assets/d2551574-4aac-4250-b8d0-63e87b58617b)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d2551574-4aac-4250-b8d0-63e87b58617b" width="400">
+</p>
+<p align="center">
 
 
 
