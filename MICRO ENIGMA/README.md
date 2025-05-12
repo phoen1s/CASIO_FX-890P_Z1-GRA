@@ -1,4 +1,4 @@
-# #MICRO ENIGMA
+#MICRO ENIGMA
 
 Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado para su uso en la CASIO Z-1GRA y modelos compatibles. 
 
