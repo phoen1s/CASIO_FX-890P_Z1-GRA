@@ -43,6 +43,8 @@ CD GAMES <br>
 De esta manera, entrarás en el directorio GAMES, y para volver al directorio raíz principal, debes utilizar el símbolo yen (¥): <br>
 CD ¥ <br>
 
+VIDEO: <br>
+https://www.youtube.com/watch?v=tvQqj17PYp8
 
 
 
