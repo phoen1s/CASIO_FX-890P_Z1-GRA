@@ -7,28 +7,28 @@ Solo logré preparar correctamente la tarjeta SD desde macOS utilizando la Termi
 
 La única manera en que logré que la tarjeta SD quedara 100& compatible y formateada en FAT16 con el sistema de particionado MBR (Master Boot Record) fue mediante los siguientes pasos desde la Terminal de macOS:
 
- 1. Inicializar el disco con una tabla de particiones DOS:
- fdisk: 1> edit 1
- Esto edita la partición 1. Si no existe, se crea al salir.
+ 1. Inicializar el disco con una tabla de particiones DOS: <br>
+ fdisk: 1> edit 1 <br>
+ Esto edita la partición 1. Si no existe, se crea al salir. <br>
 
- 2. Configurar los campos de la partición:
- Partition id: 06
- Do you wish to edit in CHS mode? [n] n
- Offset: 63
- Size: 3921857
+ 2. Configurar los campos de la partición: <br>
+ Partition id: 06 <br>
+ Do you wish to edit in CHS mode? [n] n <br>
+ Offset: 63 <br>
+ Size: 3921857 <br>
 
- 3. Después de editar la partición, asegurate de marcarla como activa:
+ 3. Después de editar la partición, asegurate de marcarla como activa: <br>
  flag 1
 
- 4. Grabar y salir:
- write
- quit
+ 4. Grabar y salir: <br>
+ write <br>
+ quit <br>
 
- 5. Desmontás el disco si no está desmontado:
- diskutil unmountDisk /dev/disk4
+ 5. Desmontás el disco si no está desmontado: <br>
+ diskutil unmountDisk /dev/disk4 <br>
 
- 6. Y luego lo formateás en FAT16:
- sudo newfs_msdos -F 16 -v SDCARD -S 512 -c 64 /dev/disk4s1
+ 6. Y luego lo formateás en FAT16: <br>
+ sudo newfs_msdos -F 16 -v SDCARD -S 512 -c 64 /dev/disk4s1 <br>
 
  	•	-F 16 → Formato FAT16
  	•	-v SDCARD → Nombre del volumen
