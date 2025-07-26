@@ -5,7 +5,7 @@ Para utilizar una tarjeta SD de 2GB como unidad de almacenamiento en la CASIO FX
 Material necesario: <br>
 Solo logré preparar correctamente la tarjeta SD desde macOS utilizando la Terminal, ya que todos mis intentos anteriores en otros sistemas operativos no dieron resultado. Probé con Windows y también con MS-DOS, pero no conseguí que la tarjeta quedara en el formato exacto que necesitaba para su correcto funcionamiento y compatibilidad. Incluso utilicé varios programas de terceros ampliamente conocidos, como Rufus, SD Card Formatter, entre otros, y tampoco logre la compatibilidad total de la CASIO al PC. <br>
 
-La única manera en que logré que la tarjeta SD quedara 100& compatible y formateada en FAT16 con el sistema de particionado MBR (Master Boot Record) fue mediante los siguientes pasos desde la Terminal de macOS: <br>
+La única manera en que logré que la tarjeta SD quedara 100% compatible y formateada en FAT16 con el sistema de particionado MBR (Master Boot Record) fue mediante los siguientes pasos desde la Terminal de macOS: <br>
 
  1. Inicializar el disco con una tabla de particiones DOS: <br>
  fdisk: 1> edit 1 <br>
