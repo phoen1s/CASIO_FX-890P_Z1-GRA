@@ -31,10 +31,10 @@ La única manera en que logré que la tarjeta SD quedara 100% compatible y forma
  quit <br>
 
  7. Desmontás el disco si no está desmontado: <br>
- diskutil unmountDisk /dev/disk4 <br>
+ diskutil unmountDisk /dev/disk6 <br>
 
  8. Y luego lo formateás en FAT16: <br>
- sudo newfs_msdos -F 16 -v SDCARD -S 512 -c 64 /dev/disk4s1 <br>
+ sudo newfs_msdos -F 16 -v SDCARD -S 512 -c 64 /dev/disk6s1 <br>
 
  	•	-F 16 → Formato FAT16 <br>
  	•	-v SDCARD → Nombre del volumen <br>
