@@ -12,7 +12,6 @@ Este es un juego de aventuras de texto en castellano, esta comprobado y adaptado
 
 
 
-
 QUE HA PASADO?. 
 DONDE ESTAS?. 
 TODO PARECE BASTANTE NORMAL, AUNQUE TE SIENTES UN POCO MAL. 
