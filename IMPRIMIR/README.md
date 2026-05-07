@@ -35,7 +35,7 @@ Se necesita ordenar los datos con la aplicacion  ORDENAR_ESC.C
 > **⚠️ Importante:** La utilidad `ORDENAR_ESC.C` ordena los datos en formato vertical para que la imagen sea visible correctamente con este comando.
 
 
-## Método 2: GS v 0 — Imagen descargada 
+## Método 2: GS v 0 — Imagen raster 
 
 Guarda la imagen en **memoria interna** y luego la imprime cuando quieras.
 
