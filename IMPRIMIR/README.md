@@ -91,16 +91,4 @@ Los datos se organizan en **filas horizontales**: byte 1 = píxeles 0-7 de la fi
 
 ---
 
-## 🎯 Conclusión
-
-> Si tu impresora lo soporta (la **SM1-21** sí), **GS v 0 es la opción recomendada** para trabajar con imágenes predefinidas. Ahorra código, evita conversiones y es directamente compatible con el formato de arrays que ya manejas en C, BASIC o cualquier editor de imágenes.
->
-> **Solo usa ESC *** si tu impresora no soporta `GS v 0` o si necesitas compatibilidad con hardware antiguo. En ese caso, recuerda pasar los datos por `ORDENAR_ESC.C` primero.
-|:---|:---|:---|
-| `ESC *` | `<1B><2A>m nl nh {D1...Dk}` | 22 |
-| `GS *` | `<1D><2A>n1 n2 {D1...Dk}` | 24 |
-| `GS /` | `<1D><2F>m` | 24 |
-
----
-
 *Basado en el manual de comandos Mobile Printer BLM-80/SM1-21/SM2-41/SM3-21 Rev.3.1J*
