@@ -4,7 +4,7 @@ Cuando trabajas con impresoras térmicas ESC/POS (como la Sanei SM1-21), existen
 
 ---
 
-## 📋 Tabla comparativa rápida
+## Tabla comparativa rápida
 
 | Característica | ESC * | GS v 0 |
 |:---|:---|:---|
@@ -16,7 +16,7 @@ Cuando trabajas con impresoras térmicas ESC/POS (como la Sanei SM1-21), existen
 
 ---
 
-## 🔧 Método 1: ESC * — Imagen directa (clásico)
+##  Método 1: ESC * — Imagen directa (clásico)
 
 Imprime en el momento **sin almacenar** nada en la impresora.
 
@@ -35,7 +35,7 @@ Se necesita ordenar los datos con la aplicacion  ORDENAR_ESC.C
 > **⚠️ Importante:** La utilidad `ORDENAR_ESC.C` ordena los datos en formato vertical para que la imagen sea visible correctamente con este comando.
 
 
-## 🚀 Método 2: GS v 0 — Imagen descargada (moderno)
+## Método 2: GS v 0 — Imagen descargada (moderno)
 
 Guarda la imagen en **memoria interna** y luego la imprime cuando quieras.
 
@@ -72,7 +72,7 @@ Los datos se organizan en **filas horizontales**: byte 1 = píxeles 0-7 de la fi
 
 ---
 
-## ✅ GS v 0
+## GS v 0
 
 ### Ventajas
 
