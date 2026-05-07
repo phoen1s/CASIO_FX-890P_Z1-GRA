@@ -16,7 +16,7 @@ Cuando trabajas con impresoras térmicas ESC/POS (como la Sanei SM1-21), existen
 
 ---
 
-##  Método 1: ESC * — Imagen directa (clásico)
+##  Método 1: ESC * — Imagen directa 
 
 Imprime en el momento **sin almacenar** nada en la impresora.
 
