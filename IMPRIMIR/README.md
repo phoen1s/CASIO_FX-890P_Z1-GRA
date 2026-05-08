@@ -39,6 +39,22 @@ Se necesita ordenar los datos con la aplicacion  ORDENAR_ESC.C
 
 > **⚠️ Importante:** La utilidad `ORDENAR_ESC.C` ordena los datos en formato vertical para que la imagen sea visible correctamente con este comando.
 
+### Ventajas
+
+- ✅ Compatible con impresoras antiguas
+- ✅ Muy flexible
+- ✅ Bueno para gráficos pequeños
+- ✅ Poco buffer interno
+
+### Desventajas
+
+- ❌ Datos verticales
+- ❌ Conversión complicada — **requiere `ORDENAR_ESC.C` para reorganizar datos**
+- ❌ Imágenes giradas fácilmente
+- ❌ Malo para BASIC lento
+- ❌ Difícil con arrays C/XBM
+  
+---
 
 ## Método 2: GS v 0 — Imagen raster 
 
@@ -58,26 +74,6 @@ PRINT#1, CHR$(&H1D);"/";CHR$(0);
 Los datos se organizan en **filas horizontales**: byte 1 = píxeles 0-7 de la fila 1, byte 2 = píxeles 8-15 de la fila 1, etc.
 
 > **✅ Ventaja:** No necesita conversión previa. Los arrays en formato bitmap horizontal (estándar C/XBM) funcionan directamente.
-
-
-### Ventajas
-
-- ✅ Compatible con impresoras antiguas
-- ✅ Muy flexible
-- ✅ Bueno para gráficos pequeños
-- ✅ Poco buffer interno
-
-### Desventajas
-
-- ❌ Datos verticales
-- ❌ Conversión complicada — **requiere `ORDENAR_ESC.C` para reorganizar datos**
-- ❌ Imágenes giradas fácilmente
-- ❌ Malo para BASIC lento
-- ❌ Difícil con arrays C/XBM
-
----
-
-## GS v 0
 
 ### Ventajas
 
