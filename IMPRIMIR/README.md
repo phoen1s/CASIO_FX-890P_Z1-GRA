@@ -2,6 +2,11 @@
 
 Cuando trabajas con impresoras térmicas ESC/POS (como la Sanei SM1-21), existen **dos formas distintas** de enviar imágenes. No son equivalentes: cada una organiza los datos de forma radicalmente diferente.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1535bb6f-56d5-466c-b4de-579208a28f92" width="400">
+</p>
+<p align="center">
+
 ---
 
 ## Tabla comparativa rápida
