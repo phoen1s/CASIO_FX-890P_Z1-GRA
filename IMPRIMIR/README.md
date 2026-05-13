@@ -89,7 +89,7 @@ Los datos se organizan en **filas horizontales**: byte 1 = píxeles 0-7 de la fi
 - ⚠️ Algunas impresoras muy antiguas no lo soportan
 - ⚠️ Usa más buffer RAM
 - ⚠️ Menos "retro compatible"
-
+ 
 ---
 
 *Basado en el manual de comandos Mobile Printer BLM-80/SM1-21/SM2-41/SM3-21 Rev.3.1J*
