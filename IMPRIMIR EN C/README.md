@@ -2,6 +2,12 @@
 
 > Colección de utilidades para MS-DOS y FX-DOS para procesar, convertir e imprimir imágenes sprite en el **CASIO FX-890P/Z-1** y sistemas compatibles.
 
+### 🎥 Video Demo
+
+[![Demo en YouTube](https://img.youtube.com/vi/IRTzOmUaizQ/0.jpg)](https://www.youtube.com/watch?v=IRTzOmUaizQ)
+
+*Haz clic en la imagen para ver el video.*
+
 ---
 
 ## 📋 Tabla de Contenidos
