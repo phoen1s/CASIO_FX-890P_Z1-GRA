@@ -5,14 +5,88 @@
 //   TABLA DE TECLADO + VRAM
 asm(".psect data, global, reloc=16");          // segmento de datos relocatable
 asm("K_DATA:");                                // inicio tabla teclado
-asm("DW 0100H,0040H"); // tecla 2              // patrón fila + máscara
-asm("DW 0080H,0020H"); // tecla 4              // patrón fila + máscara
-asm("DW 0200H,0040H"); // tecla 6              // patrón fila + máscara
-asm("DW 0100H,0010H"); // tecla 8              // patrón fila + máscara
-asm("DW 0010H,0080H"); // ESPACIO              // patrón fila + máscara
-asm("DW 0800H,0800H"); // MAYÚS                // patrón fila + máscara
-asm("DW 0080H,0200H"); // ENTER ↵             // patrón fila + máscara
-asm("DW 0001H,0001H"); // BRK                  // patrón fila + máscara
+asm("DW 0800H,0800H"); // SHIFT
+asm("DW 0002H,0020H"); // CAPS
+asm("DW 0004H,0080H"); // SRCH
+asm("DW 0004H,0100H"); // IN
+asm("DW 0008H,0080H"); // OUT
+asm("DW 0008H,0100H"); // CALC
+asm("DW 0040H,0004H"); // S (rojo)
+asm("DW 0200H,0200H"); // BS
+asm("DW 0002H,0002H"); // TAB
+asm("DW 0080H,0100H"); // E (junto a RETURN)
+asm("DW 0080H,0002H"); // MENU
+asm("DW 0400H,0010H"); // CLS
+asm("DW 0080H,0200H"); // RETURN
+asm("DW 0100H,0002H"); // CAL
+asm("DW 0400H,0002H"); // SQR
+asm("DW 0400H,0004H"); // X^2
+asm("DW 0040H,0040H"); // DEL
+asm("DW 0020H,0040H"); // INS
+asm("DW 0400H,0008H"); // ENG
+asm("DW 0080H,0004H"); // log
+asm("DW 0100H,0004H"); // ln
+asm("DW 0200H,0002H"); // DEGR
+asm("DW 0200H,0004H"); // sin
+asm("DW 0400H,0020H"); // cos
+asm("DW 0400H,0200H"); // tan
+asm("DW 0080H,0008H"); // MR
+asm("DW 0100H,0008H"); // M+
+asm("DW 0040H,0080H"); // →
+asm("DW 0020H,0080H"); // ←
+asm("DW 0040H,0020H"); // ↑
+asm("DW 0020H,0100H"); // ↓
+asm("DW 0010H,0080H"); // SPC
+asm("DW 0400H,0040H"); // ^
+asm("DW 0400H,0080H"); // STOP
+asm("DW 0001H,0001H"); // BRK
+asm("DW 0200H,0008H"); // (
+asm("DW 0200H,0010H"); // )
+asm("DW 0200H,0080H"); // *
+asm("DW 0100H,0100H"); // +
+asm("DW 0020H,0020H"); // ,
+asm("DW 0100H,0200H"); // -
+asm("DW 0080H,0080H"); // .
+asm("DW 0200H,0100H"); // /
+asm("DW 0040H,0100H"); // 0
+asm("DW 0080H,0040H"); // 1
+asm("DW 0100H,0040H"); // 2
+asm("DW 0100H,0080H"); // 3
+asm("DW 0080H,0020H"); // 4
+asm("DW 0100H,0020H"); // 5
+asm("DW 0200H,0040H"); // 6
+asm("DW 0080H,0010H"); // 7
+asm("DW 0100H,0010H"); // 8
+asm("DW 0200H,0020H"); // 9
+asm("DW 0040H,0010H"); // :
+asm("DW 0040H,0008H"); // ;
+asm("DW 0010H,0100H"); // =
+asm("DW 0002H,0010H"); // A
+asm("DW 0008H,0040H"); // B
+asm("DW 0004H,0040H"); // C
+asm("DW 0004H,0010H"); // D
+asm("DW 0004H,0004H"); // E
+asm("DW 0008H,0008H"); // F
+asm("DW 0008H,0010H"); // G
+asm("DW 0010H,0008H"); // H
+asm("DW 0020H,0002H"); // I
+asm("DW 0010H,0010H"); // J
+asm("DW 0020H,0008H"); // K
+asm("DW 0020H,0010H"); // L
+asm("DW 0010H,0040H"); // M
+asm("DW 0010H,0020H"); // N
+asm("DW 0020H,0004H"); // O
+asm("DW 0040H,0002H"); // P
+asm("DW 0002H,0004H"); // Q
+asm("DW 0008H,0002H"); // R
+asm("DW 0004H,0008H"); // S
+asm("DW 0008H,0004H"); // T
+asm("DW 0010H,0004H"); // U
+asm("DW 0008H,0020H"); // V
+asm("DW 0004H,0002H"); // W
+asm("DW 0004H,0020H"); // X
+asm("DW 0010H,0002H"); // Y
+asm("DW 0002H,0040H"); // Z
 asm("K_END:");                                 // fin tabla teclado
 asm("K_COUNT EQU (K_END-K_DATA)/4");           // número automático de entradas (cada una 4 bytes)
 
