@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 //   TABLA DE TECLADO + VRAM
 asm(".psect data, global, reloc=16");          // segmento de datos relocatable
 asm("K_DATA:");                                // inicio tabla teclado
