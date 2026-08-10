@@ -14,6 +14,7 @@ La única manera en que logré que la tarjeta SD quedara 100% compatible y forma
  diskutil unmountDisk /dev/disk6
 
  3. Inicializar el disco con una tabla de particiones DOS: <br>
+ sudo fdisk -e /dev/disk6<br>
  fdisk: 1> edit 1 <br>
  Esto edita la partición 1. Si no existe, se crea al salir. <br>
 
@@ -34,7 +35,7 @@ La única manera en que logré que la tarjeta SD quedara 100% compatible y forma
  diskutil unmountDisk /dev/disk6 <br>
 
  8. Y luego lo formateás en FAT16: <br>
- sudo newfs_msdos -F 16 -v SDCARD -S 512 -c 64 /dev/disk6s1 <br>
+ sudo newfs_msdos -F 16 -v SDCARD -S 512 -c 64 -e 1024 -a 256 /dev/dis6s1<br>
 
  	•	-F 16 → Formato FAT16 <br>
  	•	-v SDCARD → Nombre del volumen <br>
