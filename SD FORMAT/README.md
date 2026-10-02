@@ -41,7 +41,7 @@ La única manera en que logré que la tarjeta SD quedara 100% compatible y forma
  	•	-v SDCARD → Nombre del volumen <br>
  	•	-S 512 → Sector físico de 512 bytes <br>
  	•	-c 64 → 64 sectores por clúster = 32 KB por clúster <br>
- 	•	/dev/disk4s1 → Partición creada en el paso anterior <br>
+ 	•	/dev/dis6s1 → Partición creada en el paso anterior <br>
 
 Ahora, desde macOS, puedes copiar archivos y crear directorios que la CASIO reconocerá. <br>
 Es altamente recomendable copiar y crear directorios desde la terminal con los comandos mcopy y mmd, para evitar que el sistema meta archivos ocultos y metadatos, de todas formas con la aplicacion FMS puedes desde la CASIO borrar esos archivos inecesarios. <br>
