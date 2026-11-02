@@ -2,7 +2,9 @@
 
 *Chapter IV/V*
 
-Matamarcianos de scroll horizontal para la **Casio FX-890P** (FX-DOS), con pantalla LCD de 192 × 32 en blanco y negro. Eres un mercenario que busca **Elerium** para mejorar su nave y acaba metido en la guerra entre el Imperio y la Rebelión.
+Matamarcianos de scroll horizontal para la **Casio FX-890P** (FX-DOS). Eres un mercenario que busca **Elerium** para mejorar su nave y acaba metido en la guerra entre el Imperio y la Rebelión.
+
+**Memoria necesaria:** 256 KB + 32 KB de RAM.
 
 ![La cueva](img/juego_cueva.gif)
 
