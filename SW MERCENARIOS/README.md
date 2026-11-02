@@ -264,7 +264,7 @@ Todos dan **10.000** de Elerium. Cada uno sale después del **WARNING!!**.
 | Ojo | 10 |
 | Pompas | 2 |
 
-- Va y viene despacio. Los 3 tentáculos de delante dan **latigazos** al azar y de la punta sale una estaca ![](img/kraken_estaca.gif). Un tentáculo roto ya no se pinta ni dispara.
+- Va y viene despacio. Los 3 tentáculos de delante dan **latigazos** al azar y de la punta sale una estaca ![](img/kraken_estaca.gif). Un tentáculo roto ya no dispara.
 - **El ojo** ![](img/kraken_ojo.gif) es su punto débil, pero lo tapa el primer tentáculo hasta que lo rompes.
 - Cuando le das al ojo, se cierra, avanza hasta la mitad de la pantalla y suelta **10 pompas** ![](img/kraken_pompa.gif) que van a por ti a lo loco. Luego vuelve, carga, abre el ojo y dispara **el rayo** (quita 3). Se queda abierto hasta que le vuelves a dar, y cada 100 fotogramas suelta otras 10 pompas.
 - Con algún tentáculo roto, cada 80 fotogramas suelta una pompa a tu altura.
@@ -317,7 +317,7 @@ Después vuelve a su sitio y otra vez a patrullar.
 | El jefe | 40 |
 
 - Lo rodean **4 satélites** en órbita. Se mueve, espera y los **lanza de uno en uno** contra ti; los que no destruyes vuelven a su sitio.
-- Mientras le quedan satélites, dispara barras dobles.
+- Mientras le quedan satélites, dispara láseres dobles.
 - Sin satélites, cada 70 fotogramas lanza un **relámpago** ![](img/relampago.gif) que crece desde él y cruza la pantalla: se lleva todo el escudo.
 
 ## Partidas guardadas y ranking
