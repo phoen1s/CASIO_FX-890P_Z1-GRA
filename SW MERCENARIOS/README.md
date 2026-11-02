@@ -181,7 +181,7 @@ Entre las nubes. Ondulantes, dardos, mandíbulas eléctricas, cazas y cruceros k
 
 En el espacio, **en negativo** (fondo negro). Oleadas de TIE fighter, TIE bomber y TIE advanced, cada uno por su ruta, mientras de fondo luchan los destructores imperiales y los de la Alianza (sus disparos no te hacen daño).
 
-No hay jefe: entras en **el túnel** de la Estrella, con **turbolasers** en el techo y el suelo. Cuando sale el **ordenador de tiro**, el contador baja desde 015800. En **000000** tienes un momento para pulsar `ESPACIO` (o `=`): los dos misiles entran por la escotilla y la Estrella revienta. Si fallas, vuelves a intentarlo desde 004000. Si se acaba el tiempo, la Estrella destruye el planeta: **GAME OVER** y la partida se acaba.
+No hay jefe: entras en **el túnel** de la Estrella, con **turbolasers** en el techo y el suelo. Cuando sale el **ordenador de tiro**, el contador baja desde 015800. En **000000** tienes un momento para pulsar `ESPACIO` (o `=`): los dos misiles entran por la escotilla y la Estrella revienta. Solo hay una oportunidad: si fallas o se acaba el tiempo, la Estrella destruye el planeta, **GAME OVER**, sale el ranking y **se borra la partida guardada**: hay que volver a empezar con NEW GAME.
 
 ![El túnel](img/jefe_estrella.gif)
 
@@ -327,7 +327,7 @@ Después vuelve a su sitio y otra vez a patrullar.
 - La partida **se guarda sola** en el Crucero Némesis antes de cada misión, con todo el Elerium y lo comprado. **CONTINUE GAME** vuelve ahí.
 - **NEW GAME** empieza desde cero: sin Elerium y sin nada comprado.
 - En **OPTIONS** se elige el idioma de las conversaciones: inglés o español.
-- Al acabar el juego (o si la Estrella de la Muerte destruye el planeta) sale el **RANKING**: gana quien menos veces ha muerto y, a igualdad, quien más Elerium ha sacado.
+- Al acabar el juego (o si la Estrella de la Muerte destruye el planeta, que además borra la partida guardada) sale el **RANKING**: gana quien menos veces ha muerto y, a igualdad, quien más Elerium ha sacado.
 
 ---
 
