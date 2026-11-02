@@ -244,7 +244,7 @@ Resistencia = los disparos de láser que aguantan. El Elerium es la vida × el m
 | ![](img/tie_advanced.gif) | TIE advanced | 5 | 400 | Como el klingon; también viene por detrás ![](img/tie_advanced2.gif) |
 | ![](img/ondulante_estrella.gif) | Ondulante | 2 | 160 | |
 | ![](img/dardo_estrella.gif) | Dardo | 1 | 80 | En picado hacia ti |
-| ![](img/vader_viejo.gif) | Caza de Vader | 2 | 160 | Como el klingon |
+| ![](img/vader_viejo.gif) | Caza | 2 | 160 | Como el klingon |
 | ![](img/mandibulas_tunel.gif) | Mandíbulas (túnel) | 10 | 800 | Como las del aire, en medio del túnel |
 | | Turbolaser | 20 | 1.600 | En el techo y el suelo del túnel; tira un láser grueso (quita 2). Chocar con él te quita lo que le quede |
 
