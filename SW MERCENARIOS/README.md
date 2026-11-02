@@ -297,7 +297,7 @@ El plasma quita 10 a la parte que toca, si es la que toca romper. Tocarlo quita 
 
 ### El jefe del mar
 
-![El jefe del mar](img/jefe_mar.gif) ![](img/jefe_mar_sprite.gif)
+![El jefe del mar](img/jefe_mar.gif)
 
 Resistencia: **60**.
 
@@ -311,7 +311,7 @@ Después vuelve a su sitio y otra vez a patrullar.
 
 ### El jefe del aire y sus satélites
 
-![El jefe del aire](img/jefe_aire.gif) ![](img/jefe_aire_sprite.gif)
+![El jefe del aire](img/jefe_aire.gif)
 
 | Parte | Resistencia |
 |---|:-:|
