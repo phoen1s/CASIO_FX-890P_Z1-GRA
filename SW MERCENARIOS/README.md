@@ -194,8 +194,6 @@ Resistencia = los disparos de láser que aguantan. El Elerium es la vida × el m
 | | Enemigo | Resistencia | Elerium | Qué hace |
 |:-:|---|:-:|:-:|---|
 | ![](img/meteorito.gif) | Meteorito | 5 | 50 | Caen en lluvia o en fila, girando, a 1 punto cada 1–3 fotogramas |
-| ![](img/meteorito2.gif) | Meteorito | 5 | 50 | |
-| ![](img/meteorito3.gif) | Meteorito | 5 | 50 | |
 | ![](img/asteroide.gif) | Asteroide grande | 22 | 220 | 16 × 16, arriba, en medio o abajo |
 | ![](img/estalactita.gif) | Estalactita | su altura | altura × 10 | Cuelga del techo y se mueve con la cueva |
 | ![](img/estalagmita.gif) | Estalagmita | su altura | altura × 10 | Igual, desde el suelo |
