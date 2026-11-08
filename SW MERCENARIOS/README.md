@@ -1,6 +1,5 @@
-# SW — MERCENARIES
+# STAR WARS — MERCENARIES
 
-*Chapter IV/V*
 
 Matamarcianos de scroll horizontal para la **Casio FX-890P** (FX-DOS). Eres un mercenario que busca **Elerium** para mejorar su nave y acaba metido en la guerra entre el Imperio y la Rebelión.
 
