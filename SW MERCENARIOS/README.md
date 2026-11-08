@@ -53,7 +53,7 @@ Es un *roguelike*: si te destruyen, **conservas el Elerium y todo lo comprado**,
 | `N` | Pasar carga al **escudo** (SCH +1, WCH −1) |
 | `MENU` | Salir de la partida |
 | `RETURN` / `ESPACIO` | Elegir en los menús y pasar las conversaciones |
-| `8` `2` | Moverse por los menús |
+|  `8` `2` `4` `6` | Moverse por los menús |
 | `BRK` | Saltar una conversación; en el panel de misiones, salir del juego |
 
 **En la tienda:** `4` `6` cambian de objeto, `2` `8` pasan de página, `B` compra y `X` sale.
