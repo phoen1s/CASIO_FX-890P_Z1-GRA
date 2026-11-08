@@ -1,4 +1,4 @@
-# SW2 — MERCENARIES
+# SW — MERCENARIES
 
 *Chapter IV/V*
 
